@@ -12,6 +12,8 @@ _I will continually update this repo._
 
 - [6 Algorithms Every Developer Should Know](https://medium.com/dare-to-be-better/6-algorithms-every-developer-should-know-f78b609c7e7c)
 
+- [A few fundamental algorithms are considered important for developers and all tech roles.](https://medium.com/codex/algorithms-primer-54f0471e706e)
+
 ## Node.JS [Express & Nest]
 
 ## Laravel
