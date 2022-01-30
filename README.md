@@ -14,6 +14,10 @@ _I will continually update this repo._
 
 - [A few fundamental algorithms are considered important for developers and all tech roles.](https://medium.com/codex/algorithms-primer-54f0471e706e)
 
+- [Practical Applications of Algorithms](https://medium.com/geekculture/practical-applications-of-algorithms-c683b132ddda)
+
+- [Data Structures Primer](https://medium.com/codex/data-structures-primer-b14c160cbd66)
+
 ## Node.JS [Express & Nest]
 
 ## Laravel
@@ -21,3 +25,5 @@ _I will continually update this repo._
 ## Testing
 
 ## System Design
+
+- [Introduction to System Design Interview Questions](https://medium.com/codex/system-design-interview-for-non-tech-folks-43e3d7c44bf9)
