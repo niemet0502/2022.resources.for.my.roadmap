@@ -10,6 +10,8 @@ _I will continually update this repo._
 
 ## Data structures and Algorithms
 
+- [The Big O Notation](https://medium.com/interviewnoodle/the-big-o-notation-42fb66bc3152)
+
 - [6 Algorithms Every Developer Should Know](https://medium.com/dare-to-be-better/6-algorithms-every-developer-should-know-f78b609c7e7c)
 
 - [A few fundamental algorithms are considered important for developers and all tech roles.](https://medium.com/codex/algorithms-primer-54f0471e706e)
