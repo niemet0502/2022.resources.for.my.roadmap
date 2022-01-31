@@ -24,9 +24,17 @@ _I will continually update this repo._
 
 ## Node.JS [Express & Nest]
 
+- [Build a REST API with Node.js, Express, TypeScript, MongoDB & Zod](https://www.youtube.com/watch?v=BWUi6BS9T5Y&t=0s&ab_channel=TomDoesTech)
+
+- [Testing Express REST API With Jest & Supertest](https://www.youtube.com/watch?v=r5L1XRZaCR0&ab_channel=TomDoesTech)
+
 ## Laravel
 
 ## Testing
+
+- [Testing with SuperTest](https://www.testim.io/blog/supertest-how-to-test-apis-like-a-pro/)
+
+- [Test best practive](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-fr.md)
 
 ## System Design
 
