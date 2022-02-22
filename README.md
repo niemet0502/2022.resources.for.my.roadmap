@@ -22,11 +22,17 @@ _I will continually update this repo._
 
 - [Data Structures Primer](https://medium.com/codex/data-structures-primer-b14c160cbd66)
 
+- [How to identify which Data Structure to use](https://medium.com/codechef-vit/how-to-identify-which-data-structure-to-use-5a1c66ad2742)
+
 ## Node.JS [Express & Nest]
 
 - [Build a REST API with Node.js, Express, TypeScript, MongoDB & Zod](https://www.youtube.com/watch?v=BWUi6BS9T5Y&t=0s&ab_channel=TomDoesTech)
 
 - [Testing Express REST API With Jest & Supertest](https://www.youtube.com/watch?v=r5L1XRZaCR0&ab_channel=TomDoesTech)
+
+- [Learn Nest JS and Test your Rest Api](https://www.youtube.com/watch?v=GHTA143_b-s)
+
+- (https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
 
 ## Laravel
 
